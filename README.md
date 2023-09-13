@@ -1,2 +1,2 @@
 # TetrisConcept
-Scripts for a programming Tetris concept, designed in Unreal
+C++ scripts for a programming Tetris concept, designed in Unreal
